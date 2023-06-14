@@ -28,11 +28,10 @@
 
 %% packages
 \RequirePackage{multicol}
-\RequirePackage{amsmath}
 \RequirePackage{changepage}
 \RequirePackage{etoolbox} % check ifempty
 \RequirePackage[dvipsnames]{xcolor}
-\newcommand{\customColor}{Peach}
+\newcommand{\customColor}{RedViolet}
 \RequirePackage{tcolorbox}
 
 
@@ -144,7 +143,7 @@
                         right=0.2mm,%
                         after skip = 0.01mm,%
                         before skip = 0.01mm,%
-                        fontupper=\color{black}%
+                        fontupper=\color{white}%
                         ]%
                         \textbf{#1}%
         \end{tcolorbox}%
@@ -209,7 +208,7 @@
 \renewcommand{\normalsize}{\fontsize{8}{9}\selectfont} % changes normalsize to small % dirty
 \renewcommand{\familydefault}{\sfdefault}
 
-\setlength{\parindent}{0.0cm}
+\setlength{\parindent}{0cm}
 \setlength\columnsep{0.5mm}
 \setlength{\columnseprule}{0pt}
 \setlength{\textwidth}{597pt} % max 597pt
