@@ -18,8 +18,8 @@
         \begin{footnotesize}
             \begin{center}
                 \begin{empheq}[box=\fbox]{align*}
-                    F_{\text{res}} &= \sqrt{F_u^2 + F_a^2}
-                    \\ F_u &= \frac{2\cdot M_2}{d}
+                    F_{\text{res}} &= \sqrt{F_t^2 + F_a^2}
+                    \\ F_t &= \frac{2\cdot M_2}{d}
                     \\ F_r &= F_{\text{res}} \cdot S_R = F_N \cdot \mu_H
                     \\ &= p \cdot A \cdot \mu_H = p(\pi d l) \cdot \mu_H
                     \\ A &= \pi \cdot l_{tr} \cdot d
@@ -35,8 +35,8 @@
                     \\F_a &= \text{axiale Kräfte}
                     \\ A &= \text{Fläche}
                     \\ \mu_H &= \text{Haftreibung}
-                    \\ F_u &= \text{Umfangskraft}
-                    \\(\text{greift} &\text{direkt an Welle an})
+                    \\ F_t &= \text{Tangential/Umfangskraft}
+                    \\(\text{greift} &\text{ direkt an Welle an})
                 \end{align*}
             \end{center}
         \end{scriptsize}
@@ -48,6 +48,7 @@
         \begin{center}
             \begin{empheq}[box=\fbox]{align*}
                 p_{\text{min}} &= \frac{F_{\text{res}}}{\mu_H \cdot \pi \cdot d \cdot l_{\text{tr}}}
+                = \frac{F_{\text{res}}}{\mu_H \cdot A}
                 \\p_{\text{max}} &\Rightarrow \sigma_V < \sigma_{\text{zul}}
             \end{empheq}
         \end{center}
@@ -108,7 +109,7 @@
     \begin{minipage}{0.58\linewidth}
         \begin{center}
             \mathbox{
-                p \leq \frac{2 \cdot M_t \cdot S_R}{\mu \cdot \pi \cdot d_m^2 \cdot l}
+                p \leq 2 \cdot (\frac{\alpha }{2}) \cdot \frac{M_t}{\mu \cdot \pi \cdot d_m^2 \cdot l}
             }
             \scriptsize{$d_m$ = mittlerer Durchmesser} 
             \mathbox{
