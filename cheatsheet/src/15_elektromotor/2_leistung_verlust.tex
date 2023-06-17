@@ -8,24 +8,23 @@
     \begin{empheq}[box=\fbox]{align*}
                 P_{\text{mech, } \eta \text{max}}  &=
             \begin{cases}
-            2\pi \cdot M_{\eta, \text{max}}\\ 
-            2\pi \cdot M_{\eta, \text{max}} \cdot \left(n_0 - \frac{n_0 \cdot M_{\eta, \text{max}}}{M_H}\right)\\
+            2\pi \cdot M_{\eta, \text{max}} \cdot n\\ 
             \eta_{\text{max}} \cdot P_{an} = \eta_{\text{max}} \cdot n \cdot I_{\eta, \text{max}}\\
-            -R \cdot I_{\eta, \text{max}}^2 + (n + R\cdot I_0) \cdot I_{\eta, \text{max}} - n \cdot I_0\\
+            -R \cdot I_{\eta, \text{max}}^2 + (U + R\cdot I_0) \cdot I_{\eta, \text{max}} - U \cdot I_0\\
             \end{cases} 
             \\
             n  &=
             \begin{cases}
-            k_n \cdot U\\
+            k_n \cdot U \quad \quad (\text{ohne Reibung / Betriebslast})\\
             k_n \cdot U - \frac{k_n}{k_M} \cdot R \cdot M \quad \quad (\text{R berücksichtigt})\\
             n_0 - \frac{n_0}{M_H} \cdot M \quad \quad (\text{lineare Drehzahlkennlinie})\\
             \end{cases}
             \\n_0 = k_n \cdot &(U_N - I_0\cdot R) \quad \mid \quad U = R\cdot I \quad \mid \quad I_0 = \frac{M_R}{k_M}
-            \\I_{\eta, \text{max}} &= \frac{M_{\eta, \text{max}} + M_R}{k_m} \quad \mid \quad k_n = \frac{1}{2\pi} \cdot \frac{1}{k_M}
-            \\M &= k_M \cdot I \quad \mid \quad M_R = k_M \cdot I_0 
+            \\I_{\eta, \text{max}} &= \frac{M_{\eta, \text{max}} + M_R}{k_m}
+            \\M &= k_M \cdot I \quad \mid \quad P_{\text{el}} = P_{\text{mech}} + P_{\text{el, verlust}}
             \\M_H = &\frac{n_0}{k_n} \cdot \frac{k_M}{R} \text{ für } U_N \quad \mid \quad M_{\text{mech, max}} = \frac{M_H - M_R}{2}
             \\M_{\eta, \text{max}} &= \sqrt{M_H \cdot M_R} \quad \mid \quad \eta_{\text{max}} = \left(1 - \sqrt{\frac{I_0 \cdot R}{U_N}}\right)^2
-            \\ \eta &= \frac{-R \cdot I^2 + (U+RI_0) \cdot I - UI_0}{U \cdot I}
+            \\ \eta &= \frac{P_{\text{mech}}}{P_{\text{el}}} = \frac{-R \cdot I^2 + (U+RI_0) \cdot I - UI_0}{U \cdot I}
     \end{empheq}
     \begin{empheq}[box=\fbox]{align*}
         [W] &= [V] \cdot [A] = \left[ \frac{Nm}{s}\right] \quad \mid \quad [A] = \frac{[W]}{[V]} = \frac{[Nm]}{[V]}
