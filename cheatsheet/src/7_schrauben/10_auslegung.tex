@@ -7,25 +7,27 @@
         \includegraphics[width = 1.0\linewidth]{MAEIP_Schraubenauslegung2}
     \end{minipage}
     \begin{empheq}[box=\fbox]{align*}
-        \scriptstyle F_{M, \text{min}} = F_{K, \text{erf}} + F_{AP} + F_Z \quad &\mid \quad \sigma_V = \sqrt{\sigma_z^2 + 3(0.5\cdot \tau_t)^2}
-        \\F_{M, \text{max}} = \alpha_A \cdot F_{M, \text{min}} \quad &\mid \quad F_{S, \text{max}} = F_{M, \text{max}} + F_{AS}
+        \scriptstyle F_{V, \text{min}} = F_{Kl, \text{erf}} + F_{BT} + F_Z \quad \mid \quad \sigma_V = \sqrt{\sigma_z^2 + 3(0.5\cdot \tau_t)^2}
+        \\F_{V, \text{max}} = k_A \cdot F_{V, \text{min}} \quad \mid \quad F_{S, \text{max}} = F_{V, \text{max}} + F_{BS}
+        \\ \scriptstyle F_{BS} = \frac{\delta_T}{\delta_S + \delta_T} F_B \quad \mid \quad F_{BT} = \frac{\delta_S}{\delta_S + \delta_T} F_B
+        \\ \Delta f = F_BS \delta_S = F_{BT} \delta_T \quad \mid \quad F_Z = \frac{f_Z}{\delta_S + \delta_T}
     \end{empheq}
     \begin{scriptsize}
-            \begin{minipage}{0.53\linewidth}
+        \begin{minipage}{0.53\linewidth}
             \begin{empheq}[box=\fbox]{align*}
-                F_{M, \text{min}} &= \text{Min. Anziehkraft}
-                \\F_{AP}, F_{AS} &= \text{Axiale Betriebslast}
+                F_{V, \text{min}} &= \text{Min. Anziehkraft}
+                \\F_{BT}, F_{BS} &= \text{Axiale Betriebslast}
                 \\&\text{ auf Platten / Schrauben}
-                \\F_{M, \text{max}} &= \text{Max. Anziehkraft}
+                \\F_{V, \text{max}} &= \text{Max. Anziehkraft}
                 \\\sigma_z &= \text{Max. Zugspannung}
                 \\R_e &= \text{Streckgrenze}
             \end{empheq}
         \end{minipage}
         \begin{minipage}{0.45\linewidth}
             \begin{empheq}[box=\fbox]{align*}
-                F_{K, \text{erf}} &= \text{erf. Klemmkraft}
+                F_{Kl, \text{erf}} &= \text{erf. Klemmkraft}
                 \\F_Z &= \text{Setzkraftverlust}
-                \\\alpha_A &= \text{Anziehfaktor}
+                \\k_A &= \text{Anziehfaktor}
                 \\\tau_t &= \text{Max. Schubspannung}
                 \\\sigma_V &= \text{Max. Vergleichsp.}
             \end{empheq}
