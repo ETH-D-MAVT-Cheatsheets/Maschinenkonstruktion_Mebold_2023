@@ -1,4 +1,4 @@
-# Cheatsheet Template
+# Maschinenkonstruktion ZF Prof. Mebold 2023
 
 [![Build LaTeX document](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
