@@ -14,6 +14,7 @@
     \end{center}
 \end{footnotesize}
 \subsubsection{Reibkraft \hfill ME}
+    \vspace{-0.5em}
     \begin{minipage}{0.6\linewidth}
         \begin{footnotesize}
             \begin{center}
@@ -41,8 +42,10 @@
             \end{center}
         \end{scriptsize}
     \end{minipage}
+\vspace{0.1em}
 
 \subsubsection{Fugenpressung \hfill ME}
+\vspace{-0.5em}
 \begin{footnotesize}
     \begin{minipage}{0.6\linewidth}
         \begin{center}
@@ -61,8 +64,10 @@
         \end{center}
     \end{minipage}
 \end{footnotesize}
+\vspace{0.1em}
 
 \subsubsection{Übermass U\hfill ME}
+\vspace{-0.5em}
 \begin{footnotesize}
    \begin{minipage}{0.6\linewidth}
        \begin{center}
@@ -86,8 +91,10 @@
        \end{center}
    \end{minipage}
 \end{footnotesize}
+\vspace{0.1em}
 
 \subsubsection{Sicherheit gegen Rutschen \hfill ME}
+\vspace{-0.5em}
 \begin{footnotesize}
         \begin{center}
             \begin{empheq}[box=\fbox]{align*}
@@ -97,9 +104,9 @@
             \end{empheq}
         \end{center}
 \end{footnotesize}
+\vspace{0.1em}
 
-
-\subsubsection{Kegelpressverband \hfill ME}
+\subsubsection{Kegelpressverband (KPV) \hfill ME}
 \begin{footnotesize}
     \begin{minipage}{0.3\linewidth}
         \begin{center}
@@ -109,9 +116,9 @@
     \begin{minipage}{0.58\linewidth}
         \begin{center}
             \mathbox{
-                p \leq 2 \cdot (\frac{\alpha }{2}) \cdot \frac{M_t}{\mu \cdot \pi \cdot d_m^2 \cdot l}
+                p_{erf} = \frac{2 \cdot \cos{\frac{\alpha}{2}} \cdot M_{max}}{\mu \cdot \pi \cdot D_{mF}^2 \cdot l}
             }
-            \scriptsize{$d_m$ = mittlerer Durchmesser} 
+            \scriptsize{$D_{mF} = \frac{D_1 + D_2}{2}$ = mittlerer Fugendurchmesser} 
             \mathbox{
                 U = U_{\text{theo}} + 0.8(R_{ZW} + R_{ZN})
             }
@@ -119,6 +126,24 @@
             \mathbox{
                 \Delta l = \frac{U}{2 \cdot tan(\alpha)}
             }
+        \end{center}
+    \end{minipage}
+\end{footnotesize}
+\vspace{0.1em}
+
+\subsubsection{Zylindrischer Pressverband (ZPV) \hfill ME}
+\begin{footnotesize}
+    \begin{minipage}{0.3\linewidth}
+        \begin{center}
+            \includegraphics[width = 1.0\linewidth]{src/images/MAEIP_Zylindrischer_Pressverband}
+        \end{center}
+    \end{minipage}
+    \begin{minipage}{0.58\linewidth}
+        \begin{center}
+            \mathbox{
+                p_{erf} = \frac{F_{res,max}}{\mu \cdot \pi \cdot d \cdot l_{tr}}
+            }
+            \scriptsize{$F_{res,max} = \sqrt{F_{t,max}^2 + F_{a_max}^2}$} 
         \end{center}
     \end{minipage}
 \end{footnotesize}
