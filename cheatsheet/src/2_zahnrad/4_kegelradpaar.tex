@@ -22,7 +22,7 @@
         \frame{\includegraphics[width = 1.0\linewidth]{src/images/MAEIP_Kegelrad}}
     \end{center}
 \end{minipage}
-\cbreak
+\vspace{-0.5mm}
 \begin{footnotesize}
     \begin{empheq}[box=\fbox]{align*}
     &\text{Für $\Sigma \leq 90^\circ$:} \qquad \qquad \qquad \qquad \text{Für $\Sigma > 90^\circ$:}
@@ -36,3 +36,36 @@
         M_{an} = 2 \cdot M_{ab}
     }
 \end{footnotesize} 
+\vspace{0.1mm}
+
+\subsubsection{Kräfte - Kegelrad \hfill ME}
+\begin{minipage}{0.4\linewidth}
+    \begin{footnotesize}
+        \begin{center}
+            \begin{empheq}[box=\fbox]{align*}
+                F_{t1} = F_{t2} = \frac{2M_1}{d_{m1}}
+            \end{empheq}
+        \end{center}
+    \end{footnotesize}
+\end{minipage}
+\begin{minipage}{0.58\linewidth}
+    \begin{footnotesize}
+        \begin{center}
+            \mathbox{
+                F_{r1} = F_{t1} \cdot tan(\alpha) \cdot cos(\delta_1)
+            }
+            \vspace{-2mm}
+            \mathbox{
+                F_{r2} = F_{t1} \cdot tan(\alpha) \cdot cos(\delta_2)
+            }
+            \vspace{-2mm}
+            \mathbox{
+                F_{a1} = F_{t1} \cdot tan(\alpha) \cdot sin(\delta_1)
+            }
+            \vspace{-2mm}
+            \mathbox{
+                F_{a2} = F_{t2} \cdot tan(\alpha) \cdot sin(\delta_2)
+            }
+        \end{center}
+    \end{footnotesize}
+\end{minipage}
