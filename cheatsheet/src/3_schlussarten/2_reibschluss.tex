@@ -72,7 +72,7 @@
    \begin{minipage}{0.6\linewidth}
        \begin{center}
            \begin{empheq}[box=\fbox]{align*}
-              G &= 0.8 \cdot (R_{Wa} + R_{Ni}) 
+              G &= 0.4 \cdot (R_{Wa} + R_{Ni}) 
               \\U &= U_{\text{theo}} + G
               \\U_{\text{theo}} &= d_{Wa} - d_{Ni}
               \\U_{\text{max}} &= d_{Wa, \text{max}} - d_{Ni, \text{min}}
@@ -113,19 +113,15 @@
             \includegraphics[width = 1.0\linewidth]{src/images/MAEIP_Kegelpressverband}
         \end{center}
     \end{minipage}
-    \begin{minipage}{0.58\linewidth}
+    \begin{minipage}{0.68\linewidth}
         \begin{center}
-            \mathbox{
-                p_{erf} = \frac{2 \cdot \cos{\frac{\alpha}{2}} \cdot M_{max}}{\mu \cdot \pi \cdot D_{mF}^2 \cdot l}
-            }
-            \scriptsize{$D_{mF} = \frac{D_1 + D_2}{2}$ = mittlerer Fugendurchmesser} 
-            \mathbox{
-                U = U_{\text{theo}} + 0.8(R_{ZW} + R_{ZN})
-            }
-            \vspace{-1mm}
-            \mathbox{
-                \Delta l = \frac{U}{2 \cdot tan(\alpha)}
-            }
+            \begin{empheq}[box=\fbox]{align*}
+                p_{erf} &= \frac{2 \cdot \cos{\frac{\alpha}{2}} \cdot M_{max}}{\mu \cdot \pi \cdot D_{mF}^2 \cdot l}
+                \\D_{mF} &= \frac{D_1 + D_2}{2} \; \mid \; \Delta l = \frac{U}{2 \cdot tan(\alpha)}
+                \\U &= U_{\text{theo}} + 0.8(R_{ZW} + R_{ZN})
+                \\D_2 &= D_1 - 2 l \tan{\frac{\alpha}{2}} = D_1 - l K
+                \\K &= \text{Kegelverhältnis}
+            \end{empheq}
         \end{center}
     \end{minipage}
 \end{footnotesize}
