@@ -1,0 +1,52 @@
+\subsection{Schaltbar \hfill ME}
+\subsubsection{Fliehkraftkupplung \hfill ME}
+\begin{footnotesize}
+    \begin{center}
+        \scriptsize{\textbf{ohne Abstand zw. Fliehgewicht und Trommel:}}
+        \begin{empheq}[box=\fbox]{align*}
+            x = \frac{m \cdot \omega^2}{R} \mid F_F = F_Z \quad \mid \quad \omega = 2\pi \cdot n
+            \\ F_F = F_v \cdot x \quad \mid \quad F_Z = m\cdot r_s \omega^2 \quad \mid \quad \text{\textcolor{Red}{EINHEITEN!}}
+            \\ m(r_s + a) \omega^2 = x \cdot (F_v + R \cdot a)
+            \\ n_G > \sqrt{\frac{F_F}{4 \cdot \pi^2 \cdot m \cdot r_s}} \: [s^{-1}] \xrightarrow{\cdot 60} [min^{-1}]
+        \end{empheq}
+        \scriptsize{\textbf{mit Auslenkung $a$ des Fliehgewichtes:}}
+        \begin{empheq}[box=\fbox]{align*}
+            \gamma = \frac{\text{Federn}}{\text{Gewichte}} \mid F_N = F_Z - F_F \quad \mid \quad \omega = 2\pi \cdot n
+            \\F_F = x \cdot(F_v + 2 \cdot R \cdot a) \quad \mid \quad F_Z = \gamma \cdot F_F
+            \\n_E > \sqrt{\frac{F_F}{4 \cdot \pi^2 \cdot m \cdot (r_s + a)}} \: [s^{-1}] \xrightarrow{\cdot 60} [min^{-1}]
+        \end{empheq}
+        \scriptsize{\textbf{Übertragung $M_{\text{max}}$ mit $\mu$ und Auslenkung $a$ des Fliehgewichtes:}}
+        \begin{empheq}[box=\fbox]{align*}
+            M_{\text{max}} = F_R \cdot r_k = y \cdot \mu \cdot F_N \cdot r_k \quad \mid \quad F_N = \frac{M_{max}}{y \mu r_k}
+            \\F_Z = F_N + F_{F} \quad \mid \quad \omega = 2\pi \cdot n
+            \\F_F = x \cdot(F_v + 2 \cdot R \cdot a) \quad \mid \quad F_Z = m \cdot (r_s + a) \omega^2
+            \\n_B = \sqrt{\frac{F_F + F_N}{4 \cdot \pi^2 \cdot m(r_s + a)}} \: [s^{-1}] \xrightarrow{\cdot 60} [min^{-1}]
+        \end{empheq}
+        \begin{scriptsize}
+            $F_Z = \text{Zentrifugalkraft}; \; F_v = \text{Vorspannkraft}; \; m = \text{Masse Fliehgewicht} [kg];$
+            \\ $r_s = \text{Radius Schwerpunkt} [m]; \; R = \text{Federrate pro Feder}; \; n_E = \text{Einschaltdrehzahl};$
+            \\ $n_G = \text{Grenzdrehzahl}; \; \mu = \text{Reibwert}; \; x = \text{Anzahl Federn pro Fliehgewicht};$
+            \\ $r_k = \text{Innenradius Trommel}; \; a = \text{Abstand zwischen Fliehgewicht und Trommel} [m]$
+            \\ $F_F = \text{Federkraft (aller Federn)}; \; y = \text{Anzahl Fliehgewichte}$
+        \\~\\ \textcolor{Red}{ACHTUNG: $n_X = [s^{-1}]$}
+        \end{scriptsize}
+    \end{center}
+\end{footnotesize}
+
+\subsubsection{Rutschkupplung \hfill ME}
+\begin{footnotesize}
+    \begin{center}
+        \begin{empheq}[box=\fbox]{align*}
+            M_G &= F_t \cdot r_m = F_R \cdot r_m = i \mu_G \cdot F_N \cdot r_m 
+            \\&= i \mu_G \cdot F_v \cdot r_m 
+            \\r_m &= \frac{d_a + d_i}{4} \quad \mid \quad p = \frac{F_v}{A_m} \quad \mid \quad A_m = \frac{\pi}{4}(d_a^2-d_i^2)
+            \\ &\textbf{wenn zusätzlicher Weg $\Delta s$:} 
+            \\ F_{v, \text{neu}} &= F_v + R_{\text{ers} \cdot \Delta s} \Rightarrow M_G = i \cdot \mu_G \cdot F_{v, \text{neu}} \cdot r_m
+        \end{empheq}
+        \begin{scriptsize}
+            $M_G = \text{Grenzdrehmoment}; \; F_N = \text{Normalkraft}; \; F_R = \text{Reibkraft}; \;$
+            \\$\mu_G = \text{Gleitreibungskoeffizient}; \; r_m = \text{mittlerer Scheibenrand}; \; i = \text{Anzahl Reibkontakte}
+        $
+        \end{scriptsize}
+    \end{center}
+\end{footnotesize}
