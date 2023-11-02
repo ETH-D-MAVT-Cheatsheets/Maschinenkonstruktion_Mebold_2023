@@ -1,0 +1,34 @@
+\subsection{Berechnung der Tragfähigkeit \hfill ME}
+\begin{footnotesize}
+    \begin{minipage}{0.58\linewidth}
+        \begin{center}
+            \begin{empheq}[box=\fbox]{align*}
+                S_0 &= \frac{C_0}{P_0}
+                \\L_{10} &= \left(\frac{C}{P}\right)^p
+                \\L_{10h} &= \left(\frac{C}{P}\right)^p \cdot \frac{10^6}{60 \cdot n} \left[\text{h}\right] %\xrightarrow{\cdot \frac{1}{60}} \left[h\right]
+                \\\frac{F_a}{F_r} \leq e &\Leftrightarrow P = F_r
+                \\\frac{F_a}{F_r} > e &\Leftrightarrow P = X\cdot F_r + Y \cdot F_a
+             \end{empheq}
+        \end{center}
+    \end{minipage}
+    \begin{minipage}{0.4\linewidth}
+        \begin{scriptsize}
+        \begin{center}
+            \begin{align*}
+                S_0 &= \text{Statische Tragfähigkeit}
+                \\n &= \text{Drehzahl} \text{ min}^{-1}
+                \\C &= \text{Dynamische Tragzahl}
+                \\C_0 &= \text{Statische Tragzahl}
+                \\P &= \text{Dyn. äquiv. Belastung}
+                \\P_0 &= \text{Stat. äquiv. Belastung}
+                \\L_{10} &= \text{Nominelle Lebensdauer}
+                \\ & (10^6\: \text{Umdreh. bei} \: 10\%)
+                \\ L_{10h} &= \text{Lebensdauer in h}
+                \\p &= \text{Lebensdauerexponent}
+                \\ &\text{Kugellager:}\: p=3
+                \\ &\text{Rollenlager:}\: p = \frac{10}{3}
+            \end{align*}
+        \end{center}
+    \end{scriptsize}
+    \end{minipage}
+\end{footnotesize}

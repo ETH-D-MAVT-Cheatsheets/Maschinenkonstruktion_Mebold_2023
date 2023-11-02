@@ -1,0 +1,53 @@
+\subsection{Nachgiebigkeit Schraube \hfill ME}
+\begin{empheq}[box=\fbox]{align*}
+    \scriptstyle \delta_s = \frac{1}{E_s}\left( \frac{l_{ko}}{A_N} + \frac{l_1}{A_{d1}} + \frac{l_2}{A_{d2}} + \frac{l_i}{A_{di}} + \frac{l_G}{A_3} + \frac{l_{\text{Ge}}}{A_3}  \right) + \frac{l_M}{E_M \cdot A_N}
+\end{empheq}
+\begin{minipage}{0.4\linewidth}
+    \begin{center}
+        \includegraphics[width= 0.9\linewidth]{src/images/MAEIP_NachgiebigkeitSchraube}
+    \end{center}
+\end{minipage}
+\begin{minipage}{0.58\linewidth}
+    \begin{center}
+        \begin{scriptsize}
+            \begin{empheq}[box=\fbox]{align*}
+                A_N = A_2 &= \text{Kopf / Mutter}
+                \\A_2 &= \text{Schaft} 
+                \\A_3 &= \text{Gewinde}
+            \end{empheq}
+            \begin{tabular}{|c|c|}
+                \hline
+                Sechskant & $l_{k0}= 0.5d$\\
+                \hline
+                Innensechskant & $l_{k0} = 0.4d$\\
+                \hline
+                \thead{\scriptsize eingeschraubtes \\ \scriptsize Gewinde} & $l_{Ge} = 0.5d$\\
+                \hline
+                Schraubenmutter & $l_M = 0.4d$\\
+                \hline
+                Einschraubgewindebereich & $l_M= 0.33d$\\
+                \hline
+            \end{tabular}
+        \end{scriptsize}
+    \end{center}
+\end{minipage}
+
+\subsection{Nachgiebigkeit Platte \hfill ME}
+\begin{empheq}[box=\fbox]{align*}
+    \scriptstyle A_{ers} = \frac{\pi}{4} \left(d_w^2 - d_h^2\right) + \frac{\pi}{8} \cdot d_w \cdot \left(D_A - d_w\right) \cdot \left(\left(x + 1\right)^2 - 1\right)
+\end{empheq}
+\begin{minipage}{0.4\linewidth}
+    \begin{center}
+        \includegraphics[width= 1\linewidth]{src/images/MAEIP_NachgiebigkeitPlatte}
+    \end{center}
+\end{minipage}
+\begin{minipage}{0.58\linewidth}
+    \begin{center}
+        \begin{scriptsize}
+            \begin{empheq}[box=\fbox]{align*}
+                x &= \sqrt[3]{\frac{l_k \cdot d_w}{D_A}}
+                \\ \delta_T &= \frac{f_T}{F_V} = \frac{l_k}{A_{ers} \cdot E_T}
+            \end{empheq}
+        \end{scriptsize}
+    \end{center}
+\end{minipage}

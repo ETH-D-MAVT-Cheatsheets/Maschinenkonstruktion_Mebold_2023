@@ -1,0 +1,1322 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  2 NOV 2023 11:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (./cheatsheet.cls
+Document Class: cheatsheet 2020/09/14 LaTeX class for cheatsheets by Micha Boss
+hart
+(/opt/texlive/texdir/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/opt/texlive/texdir/texmf-dist/tex/latex/extsizes/size8.clo
+File: size8.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen140
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count193
+\mult@box=\box51
+\multicol@leftmargin=\dimen142
+\c@unbalance=\count194
+\c@collectmore=\count195
+\doublecol@number=\count196
+\multicoltolerance=\count197
+\multicolpretolerance=\count198
+\full@width=\dimen143
+\page@free=\dimen144
+\premulticols=\dimen145
+\postmulticols=\dimen146
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box52
+\last@line=\box53
+\maxbalancingoverflow=\dimen147
+\mult@rightbox=\box54
+\mult@grightbox=\box55
+\mult@firstbox=\box56
+\mult@gfirstbox=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count199
+\c@columnbadness=\count266
+\c@finalcolumnbadness=\count267
+\last@try=\dimen148
+\multicolovershoot=\dimen149
+\multicolundershoot=\dimen150
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count268
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count269
+\cp@tempcnt=\count270
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count271
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2023/02/12 version 6.0.1 text color boxes
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen151
+\pgfutil@tempdimb=\dimen152
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box96
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltere
+d.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen155
+\pgf@y=\dimen156
+\pgf@xa=\dimen157
+\pgf@ya=\dimen158
+\pgf@xb=\dimen159
+\pgf@yb=\dimen160
+\pgf@xc=\dimen161
+\pgf@yc=\dimen162
+\pgf@xd=\dimen163
+\pgf@yd=\dimen164
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count272
+\c@pgf@countb=\count273
+\c@pgf@countc=\count274
+\c@pgf@countd=\count275
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count276
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.d
+ef
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code
+.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count277
+\pgfsyssoftpath@bigbuffer@items=\count278
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code
+.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen165
+\pgfmath@count=\count279
+\pgfmath@box=\box97
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.cod
+e.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonome
+tric.code.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.co
+de.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compariso
+n.code.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code
+.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.cod
+e.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code
+.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerar
+ithmetics.code.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count280
+))
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.t
+ex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen166
+\pgf@picmaxx=\dimen167
+\pgf@picminy=\dimen168
+\pgf@picmaxy=\dimen169
+\pgf@pathminx=\dimen170
+\pgf@pathmaxx=\dimen171
+\pgf@pathminy=\dimen172
+\pgf@pathmaxy=\dimen173
+\pgf@xx=\dimen174
+\pgf@xy=\dimen175
+\pgf@yx=\dimen176
+\pgf@yy=\dimen177
+\pgf@zx=\dimen178
+\pgf@zy=\dimen179
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct
+.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen180
+\pgf@path@lasty=\dimen181
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.cod
+e.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen182
+\pgf@shorten@start@additional=\dimen183
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.t
+ex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box98
+\pgf@hbox=\box99
+\pgf@layerbox@main=\box100
+\pgf@picture@serial@count=\count281
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.
+code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen184
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformatio
+ns.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen185
+\pgf@pt@y=\dimen186
+\pgf@pt@temp=\dimen187
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.te
+x
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.
+tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessin
+g.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.t
+ex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen188
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.te
+x
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen189
+\pgf@sys@shading@range@num=\count282
+\pgf@shadingcount=\count283
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.te
+x
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code
+.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box101
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.t
+ex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.
+code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code
+.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box102
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-6
+5.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen190
+\pgf@nodesepend=\dimen191
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-1
+8.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/opt/texlive/texdir/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read3
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks29
+)
+\tcb@titlebox=\box103
+\tcb@upperbox=\box104
+\tcb@lowerbox=\box105
+\tcb@phantombox=\box106
+\c@tcbbreakpart=\count284
+\c@tcblayer=\count285
+\c@tcolorbox@number=\count286
+\tcb@temp=\box107
+\tcb@temp=\box108
+\tcb@temp=\box109
+\tcb@temp=\box110
+))
+(/opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count287
+\Gm@cntv=\count288
+\c@Gm@tempcnt=\count289
+\Gm@bindingoffset=\dimen192
+\Gm@wd@mp=\dimen193
+\Gm@odd@mp=\dimen194
+\Gm@even@mp=\dimen195
+\Gm@layoutwidth=\dimen196
+\Gm@layoutheight=\dimen197
+\Gm@layouthoffset=\dimen198
+\Gm@layoutvoffset=\dimen199
+\Gm@dimlist=\toks30
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count290
+\c@Blindtext=\count291
+\c@blind@countparstart=\count292
+\blind@countxx=\count293
+\blindtext@numBlindtext=\count294
+\blind@countyy=\count295
+\c@blindlist=\count296
+\c@blindlistlevel=\count297
+\c@blindlist@level=\count298
+\blind@listitem=\count299
+\c@blind@listcount=\count300
+\c@blind@levelcount=\count301
+\blind@mathformula=\count302
+\blind@Mathformula=\count303
+\c@blind@randomcount=\count304
+\c@blind@randommax=\count305
+\c@blind@pangramcount=\count306
+\c@blind@pangrammax=\count307
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen256
+\ar@mcellbox=\box111
+\extrarowheight=\dimen257
+\NC@list=\toks31
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box112
+)
+\TX@col@width=\dimen258
+\TX@old@table=\dimen259
+\TX@old@col=\dimen260
+\TX@target=\dimen261
+\TX@delta=\dimen262
+\TX@cols=\count308
+\TX@ftn=\toks32
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/mathtools/empheq.sty
+Package: empheq 2017/03/31 v2.15 Emphasizing equations
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count309
+\calc@Bcount=\count310
+\calc@Adimen=\dimen263
+\calc@Bdimen=\dimen264
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count311
+\calc@Cskip=\skip56
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen265
+))
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen266
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count312
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count313
+\leftroot@=\count314
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count315
+\DOTSCASE@=\count316
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box113
+\strutbox@=\box114
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen267
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count317
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count318
+\dotsspace@=\muskip16
+\c@parentequation=\count319
+\dspbrk@lvl=\count320
+\tag@help=\toks34
+\row@=\count321
+\column@=\count322
+\maxfields@=\count323
+\andhelp@=\toks35
+\eqnshift@=\dimen268
+\alignsep@=\dimen269
+\tagshift@=\dimen270
+\tagwidth@=\dimen271
+\totwidth@=\dimen272
+\lineht@=\dimen273
+\@envbody=\toks36
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+\g_MT_multlinerow_int=\count324
+\l_MT_multwidth_dim=\dimen274
+\origjot=\skip60
+\l_MT_shortvdotswithinadjustabove_dim=\dimen275
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen276
+\l_MT_above_intertext_sep=\dimen277
+\l_MT_below_intertext_sep=\dimen278
+\l_MT_above_shortintertext_sep=\dimen279
+\l_MT_below_shortintertext_sep=\dimen280
+\xmathstrut@box=\box115
+\xmathstrut@dim=\dimen281
+)
+\l_EQ_equationtype_int=\count325
+\l_EQ_alignmentmode_int=\count326
+\l_EQ_totalwidth_dim=\dimen282
+\l_EQ_displaywidth_dim=\dimen283
+\l_EQ_temp_linewidth_dim=\dimen284
+\l_EQ_linewidth_dim=\dimen285
+\EmphEqdelimitershortfall=\dimen286
+\EmphEqdelimiterfactor=\count327
+\g_EQ_toptag_height_dim=\dimen287
+\g_EQ_bottomtag_depth_dim=\dimen288
+\g_EQ_toprow_height_dim=\dimen289
+\g_EQ_bottomrow_depth_dim=\dimen290
+\g_EQ_widesttag_dim=\dimen291
+\EQ_mathdisplay_box=\box116
+\EQ_tag_box=\box117
+\g_EQ_temprow_int=\count328
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen292
+\c@nlinenum=\count329
+\TeXr@lab=\toks38
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/scalerel/scalerel.sty
+Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretchi
+ng of objects, relative to a reference object or in absolute terms
+\thesrwidth=\skip61
+\thesrheight=\skip62
+\srblobheight=\skip63
+\srblobdepth=\skip64
+\mnxsrwidth=\skip65
+\LMex=\skip66
+\LMpt=\skip67
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen293
+\WF@size=\dimen294
+\c@WF@wrappedlines=\count330
+\WF@box=\box118
+\WF@everypar=\toks39
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/opt/texlive/texdir/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-02-18 v3.0 Permit use of UTF-8 characters in soul (HO)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-02-18 v3.0 letterspacing/underlining (mf)
+\SOUL@word=\toks40
+\SOUL@lasttoken=\toks41
+\SOUL@syllable=\toks42
+\SOUL@cmds=\toks43
+\SOUL@buffer=\toks44
+\SOUL@token=\toks45
+\SOUL@syllgoal=\dimen295
+\SOUL@syllwidth=\dimen296
+\SOUL@charkern=\dimen297
+\SOUL@hyphkern=\dimen298
+\SOUL@dimen=\dimen299
+\SOUL@dimeni=\dimen300
+\SOUL@minus=\count331
+\SOUL@comma=\count332
+\SOUL@apo=\count333
+\SOUL@grave=\count334
+\SOUL@spaceskip=\skip68
+\SOUL@ttwidth=\dimen301
+\SOUL@uldp=\dimen302
+\SOUL@ulht=\dimen303
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(/opt/texlive/texdir/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks46
+\minrowclearance=\skip69
+\rownum=\count335
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip70
+\multirow@cntb=\count336
+\multirow@dima=\skip71
+\bigstrutjot=\dimen304
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/multirow/bigstrut.sty
+Package: bigstrut 2021/03/15 v2.8 Provide larger struts in tabulars
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box119
+\shadowsize=\dimen305
+\@Sbox=\box120
+\do@VerbBox=\toks47
+\the@fancyput=\toks48
+\this@fancyput=\toks49
+\EndVerbatimTokens=\toks50
+\Verbatim@Outfile=\write4
+\Verbatim@Infile=\read4
+) (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count337
+\l__pdf_internal_box=\box121
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+(/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count338
+\scratchdimen=\dimen306
+\scratchbox=\box122
+\nofMPsegments=\count339
+\nofMParguments=\count340
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count341
+\MPscratchDim=\dimen307
+\MPnumerator=\count342
+\makeMPintoPDFobject=\count343
+\everyMPtoPDFconversion=\toks52
+) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 28
+.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(0.28436pt, 844.47812pt, 0.28436pt)
+* v-part:(T,H,B)=(0.28436pt, 595.8008pt, 1.42271pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=844.47812pt
+* \textheight=595.8008pt
+* \oddsidemargin=-71.98563pt
+* \evensidemargin=-71.98563pt
+* \topmargin=-108.98563pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=9.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=10.0pt
+* \columnsep=1.42262pt
+* \skip\footins=28.0pt plus 16.0pt minus 8.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\Hy@linkcounter=\count344
+(./src/1_dimensionierung/1_dimensionierung.tex)
+(./src/2_zahnrad/1_uebersetzung.tex
+<src/images/MAEIP_Zahnrad.png, id=4, 587.69562pt x 419.06563pt>
+File: src/images/MAEIP_Zahnrad.png Graphic file (type png)
+<use src/images/MAEIP_Zahnrad.png>
+Package pdftex.def Info: src/images/MAEIP_Zahnrad.png  used on input line 66.
+(pdftex.def)             Requested size: 130.3841pt x 92.96844pt.
+
+Overfull \hbox (11.85374pt too wide) in paragraph at lines 66--67
+ [] 
+ []
+
+) (./src/2_zahnrad/2_leistung.tex) (./src/2_zahnrad/3_schraegverzahnung.tex
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+4.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+))
+(./src/2_zahnrad/4_kegelradpaar.tex
+<src/images/MAEIP_Kegelrad.png, id=6, 606.76688pt x 511.41063pt>
+File: src/images/MAEIP_Kegelrad.png Graphic file (type png)
+<use src/images/MAEIP_Kegelrad.png>
+Package pdftex.def Info: src/images/MAEIP_Kegelrad.png  used on input line 22.
+(pdftex.def)             Requested size: 108.31161pt x 91.28519pt.
+) (./src/2_zahnrad/5_zykloid_evolvent.tex)
+(./src/2_zahnrad/6_planetengetriebe.tex
+<src/images/MAEIP_Planetenrad.png, id=7, 455.301pt x 229.5777pt>
+File: src/images/MAEIP_Planetenrad.png Graphic file (type png)
+<use src/images/MAEIP_Planetenrad.png>
+Package pdftex.def Info: src/images/MAEIP_Planetenrad.png  used on input line 5
+.
+(pdftex.def)             Requested size: 122.61845pt x 61.82565pt.
+) (./src/2_zahnrad/7_harmonic.tex
+<src/images/MAEIP_HarmonicDrive.png, id=8, 670.00313pt x 446.16687pt>
+File: src/images/MAEIP_HarmonicDrive.png Graphic file (type png)
+<use src/images/MAEIP_HarmonicDrive.png>
+Package pdftex.def Info: src/images/MAEIP_HarmonicDrive.png  used on input line
+ 3.
+(pdftex.def)             Requested size: 81.74356pt x 54.42955pt.
+)
+(./src/3_schlussarten/1_stoffschluss.tex
+<src/images/MAEIP_Stoffschluss.png, id=9, 918.43124pt x 173.64874pt>
+File: src/images/MAEIP_Stoffschluss.png Graphic file (type png)
+<use src/images/MAEIP_Stoffschluss.png>
+Package pdftex.def Info: src/images/MAEIP_Stoffschluss.png  used on input line 
+16.
+(pdftex.def)             Requested size: 92.83089pt x 17.55136pt.
+)
+(./src/3_schlussarten/2_reibschluss.tex
+<src/images/MAEIP_Reibschluss.png, id=10, 975.645pt x 380.42125pt>
+File: src/images/MAEIP_Reibschluss.png Graphic file (type png)
+<use src/images/MAEIP_Reibschluss.png>
+Package pdftex.def Info: src/images/MAEIP_Reibschluss.png  used on input line 1
+3.
+(pdftex.def)             Requested size: 122.61845pt x 47.80794pt.
+
+Overfull \hbox (1.80159pt too wide) detected at line 41
+[]
+ []
+
+<src/images/MAEIP_Kegelpressverband.png, id=11, 514.42188pt x 504.88625pt>
+File: src/images/MAEIP_Kegelpressverband.png Graphic file (type png)
+<use src/images/MAEIP_Kegelpressverband.png>
+Package pdftex.def Info: src/images/MAEIP_Kegelpressverband.png  used on input 
+line 113.
+(pdftex.def)             Requested size: 61.30922pt x 60.16771pt.
+<src/images/MAEIP_Zylindrischer_Pressverband.jpeg, id=12, 1033.8625pt x 1002.74
+625pt>
+File: src/images/MAEIP_Zylindrischer_Pressverband.jpeg Graphic file (type jpg)
+<use src/images/MAEIP_Zylindrischer_Pressverband.jpeg>
+Package pdftex.def Info: src/images/MAEIP_Zylindrischer_Pressverband.jpeg  used
+ on input line 134.
+(pdftex.def)             Requested size: 61.30922pt x 59.45834pt.
+) (./src/3_schlussarten/3_formschluss.tex
+<src/images/MAEIP_Formschluss.png, id=13, 765.86125pt x 259.97125pt>
+File: src/images/MAEIP_Formschluss.png Graphic file (type png)
+<use src/images/MAEIP_Formschluss.png>
+Package pdftex.def Info: src/images/MAEIP_Formschluss.png  used on input line 1
+5.
+(pdftex.def)             Requested size: 102.18102pt x 34.68205pt.
+ [1
+
+{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./src/image
+s/MAEIP_Zahnrad.png> <./src/images/MAEIP_Kegelrad.png> <./src/images/MAEIP_Plan
+etenrad.png (PNG copy)> <./src/images/MAEIP_HarmonicDrive.png> <./src/images/MA
+EIP_Stoffschluss.png> <./src/images/MAEIP_Reibschluss.png> <./src/images/MAEIP_
+Kegelpressverband.png>]
+<src/images/MAEIP_Passfeder.png, id=42, 438.63875pt x 449.17813pt>
+File: src/images/MAEIP_Passfeder.png Graphic file (type png)
+<use src/images/MAEIP_Passfeder.png>
+Package pdftex.def Info: src/images/MAEIP_Passfeder.png  used on input line 27.
+
+(pdftex.def)             Requested size: 98.0929pt x 100.45071pt.
+<src/images/MAEIP_Keilwelle.png, id=43, 614.295pt x 667.49374pt>
+File: src/images/MAEIP_Keilwelle.png Graphic file (type png)
+<use src/images/MAEIP_Keilwelle.png>
+Package pdftex.def Info: src/images/MAEIP_Keilwelle.png  used on input line 101
+.
+(pdftex.def)             Requested size: 73.57045pt x 79.93283pt.
+)
+(./src/4_wellendimensionierung/0_wellen.tex)
+(./src/4_wellendimensionierung/1_wechselfestigkeit.tex)
+(./src/4_wellendimensionierung/2_kerben.tex) (./src/5_Lager/0_lager.tex
+<src/images/MAEIP_Lagerungen.png, id=44, 583.17876pt x 534.99875pt>
+File: src/images/MAEIP_Lagerungen.png Graphic file (type png)
+<use src/images/MAEIP_Lagerungen.png>
+Package pdftex.def Info: src/images/MAEIP_Lagerungen.png  used on input line 2.
+
+(pdftex.def)             Requested size: 183.92458pt x 168.72958pt.
+)
+(./src/5_Lager/1_tragfähigkeit.tex) (./src/5_Lager/2_punkt_umfangslast.tex
+<src/images/MAEIP_Lager_Punkt_Umfangslast.jpeg, id=45, 2341.74875pt x 1331.9762
+6pt>
+File: src/images/MAEIP_Lager_Punkt_Umfangslast.jpeg Graphic file (type jpg)
+<use src/images/MAEIP_Lager_Punkt_Umfangslast.jpeg>
+Package pdftex.def Info: src/images/MAEIP_Lager_Punkt_Umfangslast.jpeg  used on
+ input line 3.
+(pdftex.def)             Requested size: 204.36203pt x 116.23463pt.
+)
+(./src/6_toleranzen/0_toleranzfeld.tex
+<src/images/MAEIP_Toleranzfeld_Welle.png, id=46, 1051.93pt x 335.2525pt>
+File: src/images/MAEIP_Toleranzfeld_Welle.png Graphic file (type png)
+<use src/images/MAEIP_Toleranzfeld_Welle.png>
+Package pdftex.def Info: src/images/MAEIP_Toleranzfeld_Welle.png  used on input
+ line 7.
+(pdftex.def)             Requested size: 89.22328pt x 28.43213pt.
+<src/images/MAEIP_Toleranzfeld_Bohrung.png, id=47, 1165.35374pt x 431.6125pt>
+File: src/images/MAEIP_Toleranzfeld_Bohrung.png Graphic file (type png)
+<use src/images/MAEIP_Toleranzfeld_Bohrung.png>
+Package pdftex.def Info: src/images/MAEIP_Toleranzfeld_Bohrung.png  used on inp
+ut line 14.
+(pdftex.def)             Requested size: 89.22328pt x 33.04129pt.
+<src/images/MAEIP_Toleranzfeld.png, id=48, 1084.05pt x 750.805pt>
+File: src/images/MAEIP_Toleranzfeld.png Graphic file (type png)
+<use src/images/MAEIP_Toleranzfeld.png>
+Package pdftex.def Info: src/images/MAEIP_Toleranzfeld.png  used on input line 
+18.
+(pdftex.def)             Requested size: 183.92458pt x 127.38312pt.
+) (./src/6_toleranzen/1_passungen.tex
+<src/images/MAEIP_Spielpassung.png, id=49, 552.0625pt x 608.2725pt>
+File: src/images/MAEIP_Spielpassung.png Graphic file (type png)
+<use src/images/MAEIP_Spielpassung.png>
+Package pdftex.def Info: src/images/MAEIP_Spielpassung.png  used on input line 
+5.
+(pdftex.def)             Requested size: 59.4832pt x 65.53651pt.
+<src/images/MAEIP_Uebergangspassung.png, id=50, 552.0625pt x 608.2725pt>
+File: src/images/MAEIP_Uebergangspassung.png Graphic file (type png)
+<use src/images/MAEIP_Uebergangspassung.png>
+Package pdftex.def Info: src/images/MAEIP_Uebergangspassung.png  used on input 
+line 19.
+(pdftex.def)             Requested size: 59.4832pt x 65.53651pt.
+<src/images/MAEIP_Uebermasspassung.png, id=51, 552.0625pt x 608.2725pt>
+File: src/images/MAEIP_Uebermasspassung.png Graphic file (type png)
+<use src/images/MAEIP_Uebermasspassung.png>
+Package pdftex.def Info: src/images/MAEIP_Uebermasspassung.png  used on input l
+ine 29.
+(pdftex.def)             Requested size: 59.4832pt x 65.53651pt.
+)
+(./src/6_toleranzen/2_pressung.tex) (./src/7_schrauben/0_schrauben.tex
+<src/images/MAEIP_Schraube.png, id=52, 893.3375pt x 270.00874pt>
+File: src/images/MAEIP_Schraube.png Graphic file (type png)
+<use src/images/MAEIP_Schraube.png>
+Package pdftex.def Info: src/images/MAEIP_Schraube.png  used on input line 4.
+(pdftex.def)             Requested size: 122.61845pt x 37.05936pt.
+)
+(./src/7_schrauben/1_befestigungsgewinde.tex
+Overfull \hbox (2.29639pt too wide) in paragraph at lines 5--19
+ [] 
+ []
+
+<src/images/MAEIP_BG.png, id=53, 309.0747pt x 176.5797pt>
+File: src/images/MAEIP_BG.png Graphic file (type png)
+<use src/images/MAEIP_BG.png>
+Package pdftex.def Info: src/images/MAEIP_BG.png  used on input line 23.
+(pdftex.def)             Requested size: 73.5687pt x 42.02971pt.
+) (./src/7_schrauben/2_bewegungsgewinde.tex
+<src/images/MAEIP_BewG.png, id=54, 248.127pt x 136.8312pt>
+File: src/images/MAEIP_BewG.png Graphic file (type png)
+<use src/images/MAEIP_BewG.png>
+Package pdftex.def Info: src/images/MAEIP_BewG.png  used on input line 21.
+(pdftex.def)             Requested size: 73.5687pt x 40.56946pt.
+)
+(./src/7_schrauben/3_gewindesteigung.tex [2 <./src/images/MAEIP_Zylindrischer_P
+ressverband.jpeg> <./src/images/MAEIP_Formschluss.png> <./src/images/MAEIP_Pass
+feder.png> <./src/images/MAEIP_Keilwelle.png> <./src/images/MAEIP_Lagerungen.pn
+g> <./src/images/MAEIP_Lager_Punkt_Umfangslast.jpeg> <./src/images/MAEIP_Tolera
+nzfeld_Welle.png> <./src/images/MAEIP_Toleranzfeld_Bohrung.png> <./src/images/M
+AEIP_Toleranzfeld.png> <./src/images/MAEIP_Spielpassung.png> <./src/images/MAEI
+P_Uebergangspassung.png> <./src/images/MAEIP_Uebermasspassung.png>]
+<src/images/MAEIP_Gewindesteigung.png, id=71, 466.74374pt x 196.23312pt>
+File: src/images/MAEIP_Gewindesteigung.png Graphic file (type png)
+<use src/images/MAEIP_Gewindesteigung.png>
+Package pdftex.def Info: src/images/MAEIP_Gewindesteigung.png  used on input li
+ne 9.
+(pdftex.def)             Requested size: 94.82463pt x 39.86574pt.
+
+Overfull \hbox (4.29399pt too wide) in paragraph at lines 24--24
+ [] 
+ []
+
+) (./src/7_schrauben/4_querschnitt.tex
+<src/images/MAEIP_Schraubenquerschnitte.png, id=72, 970.62625pt x 262.48062pt>
+File: src/images/MAEIP_Schraubenquerschnitte.png Graphic file (type png)
+<use src/images/MAEIP_Schraubenquerschnitte.png>
+Package pdftex.def Info: src/images/MAEIP_Schraubenquerschnitte.png  used on in
+put line 5.
+(pdftex.def)             Requested size: 101.15907pt x 27.35501pt.
+) (./src/7_schrauben/5_kopf.tex)
+(./src/7_schrauben/6_festigkeit.tex
+<src/images/MAEIP_Festigkeitsklassen.png, id=73, 1593.955pt x 536.0025pt>
+File: src/images/MAEIP_Festigkeitsklassen.png Graphic file (type png)
+<use src/images/MAEIP_Festigkeitsklassen.png>
+Package pdftex.def Info: src/images/MAEIP_Festigkeitsklassen.png  used on input
+ line 5.
+(pdftex.def)             Requested size: 204.36203pt x 68.71767pt.
+) (./src/7_schrauben/7_belastung.tex)
+(./src/7_schrauben/8_feder.tex) (./src/7_schrauben/9_kraft.tex)
+(./src/7_schrauben/10_auslegung.tex
+<src/images/MAEIP_Schraubenauslegung1.png, id=74, 930.47626pt x 555.07375pt>
+File: src/images/MAEIP_Schraubenauslegung1.png Graphic file (type png)
+<use src/images/MAEIP_Schraubenauslegung1.png>
+Package pdftex.def Info: src/images/MAEIP_Schraubenauslegung1.png  used on inpu
+t line 4.
+(pdftex.def)             Requested size: 100.1385pt x 59.73701pt.
+<src/images/MAEIP_Schraubenauslegung2.png, id=75, 822.07124pt x 491.8375pt>
+File: src/images/MAEIP_Schraubenauslegung2.png Graphic file (type png)
+<use src/images/MAEIP_Schraubenauslegung2.png>
+Package pdftex.def Info: src/images/MAEIP_Schraubenauslegung2.png  used on inpu
+t line 7.
+(pdftex.def)             Requested size: 100.1385pt x 59.91103pt.
+) (./src/7_schrauben/11_nachgiebigkeit.tex
+<src/images/MAEIP_NachgiebigkeitSchraube.png, id=76, 362.35374pt x 516.93124pt>
+
+File: src/images/MAEIP_NachgiebigkeitSchraube.png Graphic file (type png)
+<use src/images/MAEIP_NachgiebigkeitSchraube.png>
+Package pdftex.def Info: src/images/MAEIP_NachgiebigkeitSchraube.png  used on i
+nput line 7.
+(pdftex.def)             Requested size: 73.5687pt x 104.94618pt.
+<src/images/MAEIP_NachgiebigkeitPlatte.png, id=77, 551.05875pt x 362.35374pt>
+File: src/images/MAEIP_NachgiebigkeitPlatte.png Graphic file (type png)
+<use src/images/MAEIP_NachgiebigkeitPlatte.png>
+Package pdftex.def Info: src/images/MAEIP_NachgiebigkeitPlatte.png  used on inp
+ut line 41.
+(pdftex.def)             Requested size: 81.74356pt x 53.74805pt.
+)
+(./src/7_schrauben/12_anziehverfahren.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]\OT1/cmss/m/n/7 Drehmomentgesteuertes Anziehen mit Drehmoment-
+ []
+
+) (./src/8_federn/1_schraubenfeder.tex
+<src/images/MAEIP_Schraubenfeder.png, id=78, 834.11626pt x 407.5225pt>
+File: src/images/MAEIP_Schraubenfeder.png Graphic file (type png)
+<use src/images/MAEIP_Schraubenfeder.png>
+Package pdftex.def Info: src/images/MAEIP_Schraubenfeder.png  used on input lin
+e 3.
+(pdftex.def)             Requested size: 163.49023pt x 79.87386pt.
+) (./src/8_federn/2_parallel_reihe.tex)
+(./src/8_federn/3_kennlinien.tex
+<src/images/MAEIP_Kennlinien.png, id=79, 766.865pt x 562.1pt>
+File: src/images/MAEIP_Kennlinien.png Graphic file (type png)
+<use src/images/MAEIP_Kennlinien.png>
+Package pdftex.def Info: src/images/MAEIP_Kennlinien.png  used on input line 5.
+
+(pdftex.def)             Requested size: 82.97087pt x 60.81053pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
+
+ []
+
+) (./src/8_federn/4_tellerfeder.tex
+<src/images/MAEIP_Tellerfeder.png, id=80, 975.645pt x 294.60063pt>
+File: src/images/MAEIP_Tellerfeder.png Graphic file (type png)
+<use src/images/MAEIP_Tellerfeder.png>
+Package pdftex.def Info: src/images/MAEIP_Tellerfeder.png  used on input line 4
+.
+(pdftex.def)             Requested size: 143.0528pt x 43.19473pt.
+<src/images/MAEIP_Federpaket.png, id=81, 404.712pt x 147.4308pt>
+File: src/images/MAEIP_Federpaket.png Graphic file (type png)
+<use src/images/MAEIP_Federpaket.png>
+Package pdftex.def Info: src/images/MAEIP_Federpaket.png  used on input line 22
+.
+(pdftex.def)             Requested size: 98.0929pt x 35.7328pt.
+) (./src/8_federn/5_drehfeder.tex)
+(./src/8_federn/6_biegefeder.tex) (./src/8_federn/7_schnappverbindung.tex
+<src/images/MAEIP_Schnappverbindung.png, id=82, 977.15062pt x 362.85562pt>
+File: src/images/MAEIP_Schnappverbindung.png Graphic file (type png)
+<use src/images/MAEIP_Schnappverbindung.png>
+Package pdftex.def Info: src/images/MAEIP_Schnappverbindung.png  used on input 
+line 5.
+(pdftex.def)             Requested size: 106.67659pt x 39.60971pt.
+)
+(./src/9_kupplung/1_nicht_schaltbar.tex
+<src/images/MAEIP_Kupplungen_nichtschaltbar.png, id=83, 372.6723pt x 167.9073pt
+>
+File: src/images/MAEIP_Kupplungen_nichtschaltbar.png Graphic file (type png)
+<use src/images/MAEIP_Kupplungen_nichtschaltbar.png>
+Package pdftex.def Info: src/images/MAEIP_Kupplungen_nichtschaltbar.png  used o
+n input line 4.
+(pdftex.def)             Requested size: 204.36203pt x 92.07771pt.
+ [3 <./src/images/MAEIP_Schraube.png> <./src/images/MAEIP_BG.png (PNG copy)> <.
+/src/images/MAEIP_BewG.png (PNG copy)> <./src/images/MAEIP_Gewindesteigung.png>
+ <./src/images/MAEIP_Schraubenquerschnitte.png> <./src/images/MAEIP_Festigkeits
+klassen.png> <./src/images/MAEIP_Schraubenauslegung1.png> <./src/images/MAEIP_S
+chraubenauslegung2.png> <./src/images/MAEIP_NachgiebigkeitSchraube.png> <./src/
+images/MAEIP_NachgiebigkeitPlatte.png> <./src/images/MAEIP_Schraubenfeder.png> 
+<./src/images/MAEIP_Kennlinien.png> <./src/images/MAEIP_Tellerfeder.png> <./src
+/images/MAEIP_Federpaket.png (PNG copy)> <./src/images/MAEIP_Schnappverbindung.
+png>]
+<src/images/MAEIP_KupplungenRadialversatz.png, id=101, 413.6253pt x 110.3322pt>
+
+File: src/images/MAEIP_KupplungenRadialversatz.png Graphic file (type png)
+<use src/images/MAEIP_KupplungenRadialversatz.png>
+Package pdftex.def Info: src/images/MAEIP_KupplungenRadialversatz.png  used on 
+input line 34.
+(pdftex.def)             Requested size: 163.49023pt x 43.61018pt.
+)
+(./src/9_kupplung/3_schaltbar_edit.tex)
+(./src/10_riemen_kettentriebe/0_riemen_ketten.tex)
+(./src/12_dichtung/0_dichtung.tex) [4 <./src/images/MAEIP_Kupplungen_nichtschal
+tbar.png (PNG copy)> <./src/images/MAEIP_KupplungenRadialversatz.png (PNG copy)
+>] (./src/14_mechanismen/1_hebel.tex
+<src/images/MAEIP_Hebel.png, id=105, 377.4903pt x 307.8702pt>
+File: src/images/MAEIP_Hebel.png Graphic file (type png)
+<use src/images/MAEIP_Hebel.png>
+Package pdftex.def Info: src/images/MAEIP_Hebel.png  used on input line 4.
+(pdftex.def)             Requested size: 163.49023pt x 133.33524pt.
+<src/images/MAEIP_Serienhebel.png, id=106, 218.7372pt x 140.4447pt>
+File: src/images/MAEIP_Serienhebel.png Graphic file (type png)
+<use src/images/MAEIP_Serienhebel.png>
+Package pdftex.def Info: src/images/MAEIP_Serienhebel.png  used on input line 5
+.
+(pdftex.def)             Requested size: 102.18102pt x 65.60612pt.
+) (./src/14_mechanismen/2_schiefe_ebene.tex
+<src/images/MAEIP_SchiefeEbene.png, id=107, 616.3025pt x 344.28625pt>
+File: src/images/MAEIP_SchiefeEbene.png Graphic file (type png)
+<use src/images/MAEIP_SchiefeEbene.png>
+Package pdftex.def Info: src/images/MAEIP_SchiefeEbene.png  used on input line 
+5.
+(pdftex.def)             Requested size: 81.74356pt x 45.66235pt.
+) (./src/14_mechanismen/3_keil.tex
+<src/images/MAEIP_Keil.png, id=108, 452.69125pt x 353.32pt>
+File: src/images/MAEIP_Keil.png Graphic file (type png)
+<use src/images/MAEIP_Keil.png>
+Package pdftex.def Info: src/images/MAEIP_Keil.png  used on input line 5.
+(pdftex.def)             Requested size: 73.5687pt x 57.4165pt.
+) (./src/14_mechanismen/4_schraube.tex
+<src/images/MAEIP_SchraubeIP.png, id=109, 915.42pt x 621.32124pt>
+File: src/images/MAEIP_SchraubeIP.png Graphic file (type png)
+<use src/images/MAEIP_SchraubeIP.png>
+Package pdftex.def Info: src/images/MAEIP_SchraubeIP.png  used on input line 5.
+
+(pdftex.def)             Requested size: 95.64156pt x 64.91357pt.
+)
+(./src/14_mechanismen/5_seilzug.tex
+<src/images/MAEIP_Seilzug1.png, id=110, 139.4811pt x 123.3408pt>
+File: src/images/MAEIP_Seilzug1.png Graphic file (type png)
+<use src/images/MAEIP_Seilzug1.png>
+Package pdftex.def Info: src/images/MAEIP_Seilzug1.png  used on input line 5.
+(pdftex.def)             Requested size: 118.53035pt x 104.81569pt.
+<src/images/MAEIP_Seilzug2.png, id=111, 132.495pt x 123.3408pt>
+File: src/images/MAEIP_Seilzug2.png Graphic file (type png)
+<use src/images/MAEIP_Seilzug2.png>
+Package pdftex.def Info: src/images/MAEIP_Seilzug2.png  used on input line 6.
+(pdftex.def)             Requested size: 106.67659pt x 99.307pt.
+<src/images/MAEIP_Seilzug3.png, id=112, 80.4606pt x 123.3408pt>
+File: src/images/MAEIP_Seilzug3.png Graphic file (type png)
+<use src/images/MAEIP_Seilzug3.png>
+Package pdftex.def Info: src/images/MAEIP_Seilzug3.png  used on input line 9.
+(pdftex.def)             Requested size: 57.22023pt x 87.71748pt.
+) (./src/14_mechanismen/6_schubkurbel.tex
+<src/images/MAEIP_Schubkurbel.png, id=113, 641.39626pt x 295.1025pt>
+File: src/images/MAEIP_Schubkurbel.png Graphic file (type png)
+<use src/images/MAEIP_Schubkurbel.png>
+Package pdftex.def Info: src/images/MAEIP_Schubkurbel.png  used on input line 4
+.
+(pdftex.def)             Requested size: 163.49023pt x 75.22086pt.
+<src/images/MAEIP_VariationKurbellaenge.png, id=114, 926.46124pt x 497.86pt>
+File: src/images/MAEIP_VariationKurbellaenge.png Graphic file (type png)
+<use src/images/MAEIP_VariationKurbellaenge.png>
+Package pdftex.def Info: src/images/MAEIP_VariationKurbellaenge.png  used on in
+put line 17.
+(pdftex.def)             Requested size: 163.49023pt x 87.85608pt.
+<src/images/MAEIP_VariationPleuellaenge.png, id=115, 930.47626pt x 515.9275pt>
+File: src/images/MAEIP_VariationPleuellaenge.png Graphic file (type png)
+<use src/images/MAEIP_VariationPleuellaenge.png>
+Package pdftex.def Info: src/images/MAEIP_VariationPleuellaenge.png  used on in
+put line 30.
+(pdftex.def)             Requested size: 163.49023pt x 90.65079pt.
+<src/images/MAEIP_Kurbelschleife.png, id=116, 575.14874pt x 424.58624pt>
+File: src/images/MAEIP_Kurbelschleife.png Graphic file (type png)
+<use src/images/MAEIP_Kurbelschleife.png>
+Package pdftex.def Info: src/images/MAEIP_Kurbelschleife.png  used on input lin
+e 37.
+(pdftex.def)             Requested size: 143.0528pt x 105.60208pt.
+<src/images/MAEIP_ExzentrischeKurbel.png, id=117, 977.15062pt x 370.88562pt>
+File: src/images/MAEIP_ExzentrischeKurbel.png Graphic file (type png)
+<use src/images/MAEIP_ExzentrischeKurbel.png>
+Package pdftex.def Info: src/images/MAEIP_ExzentrischeKurbel.png  used on input
+ line 45.
+(pdftex.def)             Requested size: 163.49023pt x 62.05368pt.
+)
+(./src/14_mechanismen/7_kurvengetriebe.tex
+<src/images/MAEIP_Kurvengetriebe.png, id=118, 415.5525pt x 233.673pt>
+File: src/images/MAEIP_Kurvengetriebe.png Graphic file (type png)
+<use src/images/MAEIP_Kurvengetriebe.png>
+Package pdftex.def Info: src/images/MAEIP_Kurvengetriebe.png  used on input lin
+e 4.
+(pdftex.def)             Requested size: 163.49023pt x 91.93434pt.
+<src/images/MAEIP_VariationKurvenform.png, id=119, 782.925pt x 409.53pt>
+File: src/images/MAEIP_VariationKurvenform.png Graphic file (type png)
+<use src/images/MAEIP_VariationKurvenform.png>
+Package pdftex.def Info: src/images/MAEIP_VariationKurvenform.png  used on inpu
+t line 5.
+(pdftex.def)             Requested size: 153.27151pt x 80.16734pt.
+<src/images/MAEIP_ArchimedesKurvenform.png, id=120, 264.99pt x 45.5301pt>
+File: src/images/MAEIP_ArchimedesKurvenform.png Graphic file (type png)
+<use src/images/MAEIP_ArchimedesKurvenform.png>
+Package pdftex.def Info: src/images/MAEIP_ArchimedesKurvenform.png  used on inp
+ut line 6.
+(pdftex.def)             Requested size: 163.49023pt x 28.0908pt.
+)
+(./src/14_mechanismen/8_koppelgetriebe.tex
+<src/images/MAEIP_Viergelenkkette.png, id=121, 507.8975pt x 360.34625pt>
+File: src/images/MAEIP_Viergelenkkette.png Graphic file (type png)
+<use src/images/MAEIP_Viergelenkkette.png>
+Package pdftex.def Info: src/images/MAEIP_Viergelenkkette.png  used on input li
+ne 11.
+(pdftex.def)             Requested size: 81.74356pt x 57.99197pt.
+<src/images/MAEIP_LambdaMechanismus.png, id=122, 280.04625pt x 347.2975pt>
+File: src/images/MAEIP_LambdaMechanismus.png Graphic file (type png)
+<use src/images/MAEIP_LambdaMechanismus.png>
+Package pdftex.def Info: src/images/MAEIP_LambdaMechanismus.png  used on input 
+line 18.
+(pdftex.def)             Requested size: 65.3951pt x 81.10088pt.
+) (./src/15_elektromotor/1_dc.tex)
+(./src/15_elektromotor/2_leistung_verlust.tex [5 <./src/images/MAEIP_Hebel.png 
+(PNG copy)> <./src/images/MAEIP_SerienHebel.png (PNG copy)> <./src/images/MAEIP
+_SchiefeEbene.png> <./src/images/MAEIP_Keil.png> <./src/images/MAEIP_SchraubeIP
+.png> <./src/images/MAEIP_Seilzug1.png> <./src/images/MAEIP_Seilzug2.png> <./sr
+c/images/MAEIP_Seilzug3.png> <./src/images/MAEIP_Schubkurbel.png> <./src/images
+/MAEIP_VariationKurbellaenge.png> <./src/images/MAEIP_VariationPleuellaenge.png
+> <./src/images/MAEIP_Kurbelschleife.png> <./src/images/MAEIP_ExzentrischeKurbe
+l.png> <./src/images/MAEIP_Kurvengetriebe.png (PNG copy)> <./src/images/MAEIP_V
+ariationKurvenform.png> <./src/images/MAEIP_ArchimedesKurvenform.png (PNG copy)
+> <./src/images/MAEIP_Viergelenkkette.png> <./src/images/MAEIP_LambdaMechanismu
+s.png>]
+<src/images/MAEIP_Motorkennlinien.png, id=140, 916.42375pt x 621.32124pt>
+File: src/images/MAEIP_Motorkennlinien.png Graphic file (type png)
+<use src/images/MAEIP_Motorkennlinien.png>
+Package pdftex.def Info: src/images/MAEIP_Motorkennlinien.png  used on input li
+ne 36.
+(pdftex.def)             Requested size: 204.36203pt x 138.54929pt.
+) (./src/15_elektromotor/3_servo.tex
+<src/images/MAEIP_Servo.png, id=141, 601.24625pt x 76.285pt>
+File: src/images/MAEIP_Servo.png Graphic file (type png)
+<use src/images/MAEIP_Servo.png>
+Package pdftex.def Info: src/images/MAEIP_Servo.png  used on input line 4.
+(pdftex.def)             Requested size: 204.36203pt x 25.9284pt.
+)
+(./src/15_elektromotor/4_stepper.tex
+<src/images/MAEIP_Stepper.png, id=142, 320.19624pt x 331.2375pt>
+File: src/images/MAEIP_Stepper.png Graphic file (type png)
+<use src/images/MAEIP_Stepper.png>
+Package pdftex.def Info: src/images/MAEIP_Stepper.png  used on input line 5.
+(pdftex.def)             Requested size: 49.04663pt x 50.73476pt.
+<src/images/MAEIP_Stepper_Tab1.png, id=143, 421.575pt x 249.93375pt>
+File: src/images/MAEIP_Stepper_Tab1.png Graphic file (type png)
+<use src/images/MAEIP_Stepper_Tab1.png>
+Package pdftex.def Info: src/images/MAEIP_Stepper_Tab1.png  used on input line 
+8.
+(pdftex.def)             Requested size: 94.82463pt x 56.2174pt.
+<src/images/MAEIP_Stepper_Tab2.png, id=144, 420.57124pt x 384.43625pt>
+File: src/images/MAEIP_Stepper_Tab2.png Graphic file (type png)
+<use src/images/MAEIP_Stepper_Tab2.png>
+Package pdftex.def Info: src/images/MAEIP_Stepper_Tab2.png  used on input line 
+11.
+(pdftex.def)             Requested size: 65.3951pt x 59.7747pt.
+) (./src/99_umrechnungen/0_umrechnungen.tex) (./src/99_umrechnungen/1_exponente
+n.tex) [6 <./src/images/MAEIP_Motorkennlinien.png> <./src/images/MAEIP_Servo.pn
+g> <./src/images/MAEIP_Stepper.png> <./src/images/MAEIP_Stepper_Tab1.png> <./sr
+c/images/MAEIP_Stepper_Tab2.png>]
+(./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 17280 strings out of 476024
+ 354577 string characters out of 5792021
+ 1990388 words of memory out of 5000000
+ 37170 multiletter control sequences out of 15000+600000
+ 522811 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 116i,21n,118p,440b,977s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super
+-ts1.enc}</opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cmextra/cm
+ex7.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pf
+b></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></op
+t/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texl
+ive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/texlive/te
+xdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/texdir/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></opt/texlive/texdir/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr6.pfb></opt/texlive/texdir/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/texdir/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmss10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmss8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmssbx10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy5.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.
+pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb
+></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm5.pfb>
+</opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></opt/
+texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></opt/texliv
+e/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></opt/texlive/texd
+ir/texmf-dist/fonts/type1/public/wasy-type1/wasy5.pfb>
+Output written on main.pdf (6 pages, 14553864 bytes).
+PDF statistics:
+ 244 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 308 words of extra memory for PDF output out of 10000 (max. 10000000)
+

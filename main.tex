@@ -1,0 +1,180 @@
+\documentclass[numerate]{cheatsheet}
+\usepackage{blindtext}
+\usepackage{multicol}
+\usepackage{tabularx}
+\usepackage{empheq}
+\usepackage{makecell}
+\usepackage{xcolor}
+\usepackage{scalerel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{color,soul}
+\usepackage{colortbl}
+\usepackage{multirow}
+\usepackage{bigstrut}
+\usepackage{fancybox}
+\usepackage[center]{}
+
+\graphicspath{ {./Dokumente/ZF_nischmidt_MAE/Pictures} }
+
+
+\doctitle{Zusammenfassung \\Maschinenkonstruktion}
+\author{Nina Schmidt - nischmidt$@$ethz.ch \\ erweitert von Noa Sendlhofer - nsendlhofer}
+
+
+\begin{document}
+
+\renewcommand{\multirowsetup}{\centering} %to align center inside the table
+\setlength{\tabcolsep}{4pt}
+%New command
+\newcommand{\cbreak}{%
+    \vfill\null\columnbreak%
+}
+
+%New command
+\makeatletter
+\newcommand{\pushright}[1]{\ifmeasuring@#1\else\omit\hfill$\displaystyle#1$\fi\ignorespaces}
+\newcommand{\pushleft}[1]{\ifmeasuring@#1\else\omit$\displaystyle#1$\hfill\fi\ignorespaces}
+\makeatother
+
+
+\section{Dimensionierung \hfill ME}
+    \input{src/1_dimensionierung/1_dimensionierung.tex}
+
+\section{Zahnräder und Zahnradgetriebe \hfill ME}
+    \input{src/2_zahnrad/1_uebersetzung.tex}
+    \input{src/2_zahnrad/2_leistung.tex}
+    \input{src/2_zahnrad/3_schraegverzahnung.tex}
+    \input{src/2_zahnrad/4_kegelradpaar.tex}
+    \input{src/2_zahnrad/5_zykloid_evolvent.tex}
+    \input{src/2_zahnrad/6_planetengetriebe.tex}
+    \input{src/2_zahnrad/7_harmonic.tex}
+
+\section{Schlussarten \hfill ME}
+    \input{src/3_schlussarten/1_stoffschluss.tex}
+    \input{src/3_schlussarten/2_reibschluss.tex}
+    \input{src/3_schlussarten/3_formschluss.tex}
+
+\section{Wellendimensionierung \hfill ME}
+    \input{src/4_wellendimensionierung/0_wellen.tex}
+    \input{src/4_wellendimensionierung/1_wechselfestigkeit.tex}
+    \input{src/4_wellendimensionierung/2_kerben.tex}
+\cbreak
+
+\section{Lager und Lagerung \hfill ME}
+    \input{src/5_Lager/0_lager.tex}
+    \input{src/5_Lager/1_tragfähigkeit.tex}
+    \input{src/5_Lager/2_punkt_umfangslast.tex}
+
+% \section{Schmierung \hfill ME}
+%     \input{src/6_schmierung/0_schmierung.tex}
+\section{Toleranzen und Passung}
+    \input{src/6_toleranzen/0_toleranzfeld.tex}
+    \input{src/6_toleranzen/1_passungen.tex}
+    \input{src/6_toleranzen/2_pressung.tex}
+    \cbreak
+
+\section{Schrauben \hfill ME}
+    \input{src/7_schrauben/0_schrauben.tex}
+    \input{src/7_schrauben/1_befestigungsgewinde.tex}
+    \input{src/7_schrauben/2_bewegungsgewinde.tex}
+    \input{src/7_schrauben/3_gewindesteigung.tex}
+    \input{src/7_schrauben/4_querschnitt.tex}
+    \input{src/7_schrauben/5_kopf.tex}
+    \input{src/7_schrauben/6_festigkeit.tex}
+    \input{src/7_schrauben/7_belastung.tex}
+    \input{src/7_schrauben/8_feder.tex}
+    \input{src/7_schrauben/9_kraft.tex}
+    \input{src/7_schrauben/10_auslegung.tex}
+    \input{src/7_schrauben/11_nachgiebigkeit.tex}
+    \input{src/7_schrauben/12_anziehverfahren.tex}
+
+\section{Federn \hfill ME}
+    \input{src/8_federn/1_schraubenfeder.tex}
+    \input{src/8_federn/2_parallel_reihe.tex}
+    \input{src/8_federn/3_kennlinien.tex}
+    \input{src/8_federn/4_tellerfeder.tex}
+    \input{src/8_federn/5_drehfeder.tex}
+    \input{src/8_federn/6_biegefeder.tex}
+    \input{src/8_federn/7_schnappverbindung.tex}
+
+\section{Kupplungen \hfill ME}
+    \input{src/9_kupplung/1_nicht_schaltbar.tex}
+    \input{src/9_kupplung/3_schaltbar_edit.tex}
+
+\section{Riemen und Kettentriebe \hfill ME}
+    \input{src/10_riemen_kettentriebe/0_riemen_ketten.tex}
+
+
+\section{Dichtungen \hfill ME}
+    \input{src/12_dichtung/0_dichtung.tex}
+    \newpage
+
+% \section{Iterativer Ansatz und Methoden \hfill IP}
+%     \input{src/13_methods/1_iterativer_ansatz.tex}
+%     \input{src/13_methods/2_system_funktion.tex}
+%     \input{src/13_methods/3_ropohl.tex}
+%     \input{src/13_methods/4_anforderungen.tex}
+%     \input{src/13_methods/5_loesungen.tex}
+%     \input{src/13_methods/6_variation_kombination.tex}
+%     \input{src/13_methods/7_wirtschaft_technik.tex}
+%     \input{src/13_methods/8_binaer.tex}
+%     \input{src/13_methods/9_nwa.tex}
+
+\section{Mechanische Mechanismen \hfill IP}
+    \input{src/14_mechanismen/1_hebel.tex}
+    \input{src/14_mechanismen/2_schiefe_ebene.tex}
+    \input{src/14_mechanismen/3_keil.tex}
+    \input{src/14_mechanismen/4_schraube.tex}
+    \input{src/14_mechanismen/5_seilzug.tex}
+    \input{src/14_mechanismen/6_schubkurbel.tex}
+    \cbreak
+    \input{src/14_mechanismen/7_kurvengetriebe.tex}
+    \input{src/14_mechanismen/8_koppelgetriebe.tex}
+    \cbreak
+    
+\section{Elektromotoren \hfill IP}
+    \input{src/15_elektromotor/1_dc.tex}
+    \input{src/15_elektromotor/2_leistung_verlust.tex}
+    \input{src/15_elektromotor/3_servo.tex}
+    \input{src/15_elektromotor/4_stepper.tex}
+
+% \section{Gestaltung \hfill IP}
+%     \input{src/16_gestaltung/1_kraftleitung.tex}
+%     \input{src/16_gestaltung/2_konstruktion.tex}
+%     \input{src/16_gestaltung/3_fertigung.tex}
+
+% \section{Fertigungsverfahren \hfill IP}
+%     \input{src/17_fertigungsverfahren/0_fertigungsverfahren.tex}
+%     \input{src/17_fertigungsverfahren/1_lasercutting.tex}
+%     \input{src/17_fertigungsverfahren/2_kleben.tex}
+%     \cbreak
+%     \input{src/17_fertigungsverfahren/3_am.tex}
+
+% \section{Qualität und Testing \hfill IP}
+%     \input{src/18_qualitaet/0_qualitaet.tex}
+%     \input{src/18_qualitaet/1_design_review.tex}
+%     \input{src/18_qualitaet/2_fmea.tex}
+%     \input{src/18_qualitaet/3_ishikawa.tex}
+%     \input{src/18_qualitaet/4_testing.tex}
+%     \cbreak
+
+% \section{Kosten \hfill IP}
+%     \input{src/19_kosten/0_kosten.tex}
+%     \input{src/19_kosten/1_kostenträger.tex}
+%     \input{src/19_kosten/2_abc.tex}
+%     \input{src/19_kosten/3_kosten_senken.tex}
+%     \input{src/19_kosten/4_target_costing.tex}
+%     \input{src/19_kosten/5_eskalation.tex}
+
+% \section{Produktlebenszyklus \hfill IP}
+%     \input{src/20_lebenszyklus/0_lebenszyklus.tex}
+
+\section{Weitere Umrechnungen, nützliches \hfill ME}
+    \input{src/99_umrechnungen/0_umrechnungen.tex}
+    \input{src/99_umrechnungen/1_exponenten.tex}
+
+\end{document}

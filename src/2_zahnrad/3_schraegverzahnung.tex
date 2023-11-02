@@ -1,0 +1,65 @@
+\subsection{Schrägverzahnte Stirnräder \hfill ME}
+\begin{scriptsize}
+    \begin{itemize}
+    \item Ermöglicht Verlängerung d. Eingriffsstrecke ($\Delta q$) $\to$ höhere Belastbarkeit \\und ruhigeres Laufverhalten $\to$ teuer
+    \end{itemize}
+\end{scriptsize}
+\vspace{-3mm}
+\begin{minipage}{0.58\linewidth}
+    \begin{footnotesize}
+        \begin{center}
+            \begin{empheq}[box=\fbox]{align*}
+                \Delta q &= b \cdot tan(\beta)
+                \\ &= \frac{p \cdot d_f}{E_A} \cdot K
+                \\m_t &= \frac{m_n}{cos(\beta)}
+                \\cos(\beta) &= \frac{m_n}{m_t} = \frac{m_n \cdot z}{d_{tk}}
+                \\d &= m_t \cdot z
+                \\z'_{gt} &= 14 \cdot cos^3(\beta)
+            \end{empheq}
+        \end{center}
+    \end{footnotesize}
+\end{minipage}
+\begin{minipage}{0.4\linewidth}
+    \begin{scriptsize}
+            \begin{align*}
+                b &= \text{Breite ZR}
+                \\m_t &= \text{Stirnmodul}
+                \\m_n &= \text{Normalmodul}
+                \\z'_{gt} &= \text{Grenzzähnezahl}
+                \\p &= \text{Pressung}
+                \\ d_f &= \text{Durchmesser Fuge}
+                \\ E_A &= \text{E-Modul Nabe}
+                \\K &= \text{aus Tabelle}
+                \\ &\textbf{Grenzzähnezahl:}
+                \\ &\text{Theoretisch:} \; z < 17
+                \\ &\text{Praktisch:} \; z < 14
+            \end{align*}
+    \end{scriptsize}
+\end{minipage}
+
+\subsubsection{Kräfte - schrägverzahntes Zahnrad \hfill ME}
+\vspace{-1mm}\begin{minipage}{0.4\linewidth}
+    \begin{footnotesize}
+        \begin{center}
+            \mathbox{
+                F_{t1} = F_{t2} = \frac{2M_1}{d_1}
+            }
+        \end{center}
+    \end{footnotesize}
+\end{minipage}
+\begin{minipage}{0.58\linewidth}
+    \begin{footnotesize}
+        \begin{center}
+            \mathbox{
+                F_{r1} = F_{r2} = F_{t1} \cdot tan(\alpha)
+            }  
+            \vspace{-2mm}
+            \mathbox{
+                F_{a1} = F_{a2} = F_{t1}\cdot tan(\beta)
+            }
+            \mathbox{
+                d = m_t \cdot z \mid m_t = \frac{m_n}{\cos(\beta)}
+            }
+        \end{center}
+    \end{footnotesize}
+\end{minipage}

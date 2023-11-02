@@ -1,0 +1,24 @@
+\subsection{Prinzip der Kraftleitung \hfill IP}
+    \begin{footnotesize}
+        \textbf{Ziel:} Auftretende Spannung reduzieren / verfügbares Material bestmöglich nutzen $\Rightarrow$ Kraftfluss nicht (hart) umlenken / kurze, direkte Kraftleitung
+        \vspace{-2mm}
+        \begin{center}
+            \begin{empheq}[box=\fbox]{align*}
+                \sigma_z = \frac{F}{A} \quad \mid \quad \sigma_b = \frac{M_b}{W_{ax}} \quad &\mid \quad \sigma_{\text{max}} = \frac{M_b}{W_{ax}} = M_b \cdot \frac{\alpha_{\text{max}}}{I_{ax}}
+                \\ M_b = F \cdot l \quad \mid \quad \tau_t = \frac{M_t}{W_t} \quad &\mid \quad \scriptstyle{\text{S. v. Steiner: }} I_{\xi} = I_{\eta} + A \cdot d^2
+            \end{empheq}
+        \scriptsize{$\sigma_z$ = Zugspannung; $F$ = wirkende Kraft; $A$ = Querschnittsfläche; $\sigma_b$ = Biegspannung; \\$M_b$ = Biegemoment; $W_{ax}$ = axiales Widerstandsmoment; $I_{ax}$ = axiales \\Flächenmoment; $\alpha_{max}$ = max. senkrechter Abstand der Randfaser zur Neutralfaser}; \\$\tau_t$ = Torsionsspannung; $M_t$ = Torsionsmoment; \\$W_t$ = Widerstandsmoment für Torsion
+
+        \begin{tabular}{|c|c|c|c|}
+            \hline
+            \null & $W_{ax}$ & $I_{ax}$ & $W_t$\\
+            \hline
+            Rechteck & \thead{$W_x = \frac{bh^2}{6}$ \\~\\ $W_y = \frac{hb^2}{6}$} & \thead{$I_x = \frac{bh^3}{12}$ \\~\\ $I_y = \frac{b^3h}{12}$} & \thead{$0.208a^3$ \\ \textbf{\scriptsize (Quadrat mit Seite a)}} \\
+            \hline
+            $\text{Kreisring}^*$ & \thead{$W_x = W_y$ \\~\\ $= \frac{\pi (D^4-d^4)}{32 \cdot D}$} & \thead{$I_x = I_y$ \\~\\ $= \frac{\pi ( D^4 -d^4)}{64}$} & $\frac{\pi (D^4-d^4)}{16\cdot D}$\\
+            \hline
+        \end{tabular}
+        
+        *falls Vollkreis $\to$ gleiche Formeln verwenden mit $d^4 = 0$
+        \end{center}
+    \end{footnotesize}
